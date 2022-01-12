@@ -1,5 +1,5 @@
-@import url('./logo/logo.css');
-@import url('./logo/_place_header/logo_place_header.css');
+@import url('../logo/logo.css');
+@import url('../logo/_place_header/logo_place_header.css');
 
 .header {
   height: 100vh;
