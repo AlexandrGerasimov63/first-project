@@ -22,29 +22,13 @@
 
 
 
-.header {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  position: relative;
-  display: flex;
-  align-items: center;
-  box-sizing: border-box;
-  background-color: #f2f2f2;
-  z-index: 0;
+
+
 
   /* выше установили ограничения для секции */
-}
-.logo{
-  width: 183px;
-  height: 32px;
-}
-.logo_place_header{
-  position: absolute;
-  left:64px;
-  top: 30px;
-  z-index: 1;
-}
+
+
+
 .header__title{
   width: 730px;
   margin:0;
