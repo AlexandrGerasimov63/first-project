@@ -1,7 +1,7 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
-  background-image: url('/images/triangle.svg');
+  background-image: url('../../../images/triangle.svg');
   background-color:#2f80ed;
   position: absolute;
   top: 64px;
