@@ -48,59 +48,10 @@
 
 
 /* Блок Techniques */
-.techniques{
-  margin: 100px auto 0;
-  width: 80%;
-}
-.section-title{
-  display: block;
-  width: 60%;
-  text-align: center;
-  margin: 0 auto;
-  font-size: 60px;
-  font-weight: 700;
-  line-height: 1.15;
-}
-.section-subtitle{
-  text-align: center;
-  width: 60%;
-  margin: 20px auto 0;
-  line-height: 34px;
-  font-size: 24px;
-}
-.card{
-  display: flex;
-  margin: 0 auto;
-  width: 920px;
-  flex-wrap: wrap;
-}
-.cards__item{
-  margin: 0 100px 0 0;
-  width: 240px;
-}
-.cards__item:nth-child(3n){
-  margin: 0 auto;
-}
-.cards__image{
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  margin: 60px 40px 43px;
-}
-.card__title{
-  margin: 0 auto;
-  text-align: center;
-  font-size: 24px;
-  line-height: 1.15;
-  font-weight: 700;
-}
-.cards_description{
-  margin: 16 auto 0;
-  line-height: 23px;
-  font-size: 18px;
-  font-weight: normal;
-  text-align: center;
-}
+
+
+
+
 
 
 .digits{
