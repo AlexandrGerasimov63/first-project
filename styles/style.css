@@ -38,42 +38,14 @@
 
 /* Секция main
 Блок discription */
-.description{
-  margin-top: 100px;
-  z-index: 1;
-}
-.two-columns{
-  display: flex;
-  margin: 0 auto;
-  width: 80%;
-  justify-content: space-between;
-}
 
-.two-columns__brief{
-  margin: 0;
-  color: #2f80ed;
-  width: 175px;
-  font-size: 18px;
-  line-height: 1.2;
-  font-weight: normal;
-}
-.two-colums__main-text{
-  width: 80%;
-  min-width: 784px;
-  margin: 0px;
-}
-.two-columns__paragraph{
-  margin: 0;
-  margin-bottom: 30px;
-  line-height: 34px;
-  font-size: 24px;
-}
-.two-columns__paragraph:last-child{
-  margin-bottom: 0;
-}
-.two-colums__span-accent{
-  font-weight: 700;
-}
+
+
+
+
+
+
+
 
 /* Блок Techniques */
 .techniques{
